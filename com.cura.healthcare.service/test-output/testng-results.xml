@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T19:25:47 IST" name="Default suite" finished-at="2024-10-26T19:26:17 IST" duration-ms="29851">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T19:25:47 IST" name="Default test" finished-at="2024-10-26T19:26:17 IST" duration-ms="29851">
+      <class name="com.cura.healthcare.service.Curahealth">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.cura.healthcare.service.Curahealth@77888435]" started-at="2024-10-26T19:25:47 IST" name="startBrowser" finished-at="2024-10-26T19:25:56 IST" duration-ms="9449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="Login()[pri:0, instance:com.cura.healthcare.service.Curahealth@77888435]" started-at="2024-10-26T19:25:56 IST" name="Login" finished-at="2024-10-26T19:26:16 IST" duration-ms="19724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.cura.healthcare.service.Curahealth@77888435]" started-at="2024-10-26T19:26:16 IST" name="closeBrowser" finished-at="2024-10-26T19:26:17 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.cura.healthcare.service.Curahealth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
